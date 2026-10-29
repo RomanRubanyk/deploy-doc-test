@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "recipe": "expo-54-android-apk-v1",
+  "branches": ["main"],
+  "sourceDirectory": ".",
+  "applicationId": "dev.deploydoc.test"
+}
