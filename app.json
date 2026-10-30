@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DeployDoc Test",
+    "slug": "deploy-doc-test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "dev.deploydoc.test"
+    }
+  }
+}
