@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+/android/
+/ios/
+.idea/
+.DS_Store
+*.log
+.env
+.env.*
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
